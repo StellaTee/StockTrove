@@ -1,0 +1,4 @@
+nltk
+psycopg
+psycopg-binary
+scikit-learn

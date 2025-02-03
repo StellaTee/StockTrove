@@ -1,0 +1,11 @@
+# Ignore artifacts:
+build
+coverage
+
+# Ignore JSON files:
+**/*.json 
+**/*.cjs
+
+# Ignores all but the files in src
+/*
+!/src
