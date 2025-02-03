@@ -2,6 +2,19 @@
 
 CS261 Project
 
+## **Overview**
+
+StockTrove is a stock and finance news platform that enables users to track public perception of companies and its impact on stock performance. It aggregates real-time news, conducts sentiment analysis, and predicts stock trends to help users make informed financial decisions.
+
+### **Key Features**:
+
+- **Personalized News Feed**: Follow companies to receive relevant news updates.
+- **Sentiment Analysis**: Assesses news articles as positive, neutral, or negative.
+- **Stock Prediction Algorithm**: Predicts stock price changes based on sentiment trends.
+- **Company Discovery & Recommendations**: AI-driven suggestions based on user interests.
+- **Stock Performance Tracking**: Displays financial trends through interactive graphs.
+- **User Notifications**: Alerts for major stock changes and breaking news.
+
 ## **Prerequisites**
 
 Before running the project, ensure you have the following installed:
